@@ -1,0 +1,17 @@
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\ExploreCalifornia.exe
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\ExploreCalifornia.deps.json
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\ExploreCalifornia.runtimeconfig.json
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\ExploreCalifornia.runtimeconfig.dev.json
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\ExploreCalifornia.dll
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\bin\Debug\netcoreapp3.0\ExploreCalifornia.pdb
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.csprojAssemblyReference.cache
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.AssemblyInfo.cs
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.csproj.CoreCompileInputs.cache
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.RazorTargetAssemblyInfo.cache
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.dll
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.pdb
+C:\Users\Gizelle\Downloads\Ex_Files_ASPNET_CoreMVC_Upd\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch01\01_03\ExploreCalifornia\obj\Debug\netcoreapp3.0\ExploreCalifornia.genruntimeconfig.cache

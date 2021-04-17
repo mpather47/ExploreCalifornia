@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gizelle\\Downloads\\Ex_Files_ASPNET_CoreMVC_Upd\\Ex_Files_ASPNET_CoreMVC_Upd\\Exercise Files\\Ch01\\01_03\\ExploreCalifornia\\ExploreCalifornia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gizelle\\Downloads\\Ex_Files_ASPNET_CoreMVC_Upd\\Ex_Files_ASPNET_CoreMVC_Upd\\Exercise Files\\Ch01\\01_03\\ExploreCalifornia\\ExploreCalifornia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gizelle\\Downloads\\Ex_Files_ASPNET_CoreMVC_Upd\\Ex_Files_ASPNET_CoreMVC_Upd\\Exercise Files\\Ch01\\01_03\\ExploreCalifornia\\ExploreCalifornia.csproj",
+        "projectName": "ExploreCalifornia",
+        "projectPath": "C:\\Users\\Gizelle\\Downloads\\Ex_Files_ASPNET_CoreMVC_Upd\\Ex_Files_ASPNET_CoreMVC_Upd\\Exercise Files\\Ch01\\01_03\\ExploreCalifornia\\ExploreCalifornia.csproj",
+        "packagesPath": "C:\\Users\\Gizelle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gizelle\\Downloads\\Ex_Files_ASPNET_CoreMVC_Upd\\Ex_Files_ASPNET_CoreMVC_Upd\\Exercise Files\\Ch01\\01_03\\ExploreCalifornia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gizelle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
